@@ -5,11 +5,11 @@ Nestre exercicio foi testado uma biblioteca em C++ chamada [BigNumber](https://g
 
 Foi usado o framework de testes [doctest.h](https://github.com/onqtam/doctest).
 
-Tanto o doctest quanto a biblioteca sao "header-only" e nao possui dependencias, bastando baixar o codigo e
+Tanto o doctest quanto a biblioteca sao "header-only" e nao possuem dependencias, bastando baixar este codigo e
 ```sh
 make
 ```
-Sao 8 TEST_CASEs, cada um testa funcionalidades similares e alguns corner cases. 
+Sao 8 TEST_CASEs, cada um checa funcionalidades similares e alguns corner cases. 
 
 Note que um dos testes falha, indicando um problema no codigo da biblioteca.
 
