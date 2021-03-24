@@ -1,7 +1,7 @@
 # es20202-testes
 Exercicios sobre implementação de testes - UFMG 20202 - Engenharia de software
 
-Nestre exercicio foi testado uma biblioteca em C++ chamada [BigNumber](https://github.com/Limeoats/BigNumber), ela eh usada na manipulacao de numeros com precisao arbitraria.
+Nestre exercicio foi testado uma biblioteca em C++ chamada [BigNumber](https://github.com/Limeoats/BigNumber), ela eh usada na manipulacao de numeros com precisao arbitraria, a lista de metodos testados encontra-se no README do repositorio da biblioteca.
 
 Foi usado o framework de testes [doctest.h](https://github.com/onqtam/doctest).
 
